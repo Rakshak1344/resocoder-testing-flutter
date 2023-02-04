@@ -1,4 +1,4 @@
-package com.resocoder.flutter_testing_tutorial
+package com.example.resocodertesting
 
 import io.flutter.embedding.android.FlutterActivity
 
